@@ -1,7 +1,9 @@
 # cq-cq-cq
-hello world repository, to learn about github
+hello world repository, to learn about github.
 
-  - item number one 
-  - item number two
+TODO list:
+
+  - [ ] move the code to these pages 
+  - [ ] create ve6gpo.github.io (maybe) for all the notes
   
-this is another paragraph.
+repository of all my hobby projects.
