@@ -1,4 +1,4 @@
-# cq-cq-cq
+# CQ CQ CQ DE VE6GPO
 hello world repository, to learn about github.
 
 TODO list:
